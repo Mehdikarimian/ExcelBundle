@@ -1,11 +1,11 @@
 {
-    "name": "liuggio/excelbundle",
-    "description": "This is a Symfony2 Bundle helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
+    "name": "Mehdikarimian/excelbundle",
+    "description": "This is a Symfony4 Bundle helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
     "type": "symfony-bundle",
     "authors": [
         {
-            "name": "Giulio De Donato",
-            "email": "liuggio@gmail.com"
+            "name": "Mehdi karimian",
+            "email": "Mehdikarimian94@gmail.com"
         },
         {
             "name": "ExcelBundle Contributors",
