@@ -57,6 +57,5 @@
     }, 
     "config": {
         "bin-dir": "bin"
-    },
-    "version": "4.0.0"
+    }
 }
