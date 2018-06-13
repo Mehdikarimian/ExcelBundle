@@ -10,7 +10,7 @@
         },
         {
             "name": "ExcelBundle Contributors",
-            "homepage": "https://github.com/liuggio/ExcelBundle#contributors"
+            "homepage": "https://github.com/Mehdikarimian/ExcelBundle#contributors"
         }
     ],
 
@@ -41,12 +41,12 @@
     "autoload": {
         "exclude-from-classmap": ["/Tests/"],
         "psr-4": {
-            "Liuggio\\ExcelBundle\\": ""
+            "Mehdikarimian\\ExcelBundle\\": ""
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Liuggio\\ExcelBundle\\": ""
+            "Mehdikarimian\\ExcelBundle\\": ""
         }
     },
     
