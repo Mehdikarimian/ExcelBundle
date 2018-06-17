@@ -39,7 +39,7 @@
     
 }
 ```
-**2** Run
+**2** 
 ``` shell
     composer require Mehdikarimian/ExcelBundle:dev-master
 ```
