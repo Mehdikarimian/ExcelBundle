@@ -1,4 +1,4 @@
-**1 )** add repositories to package.json file
+**1)** add repositories to package.json file
 
 ``` php
     "repositories": [
@@ -39,11 +39,11 @@
     
 }
 ```
-**2 )** 
+**2)** 
 ``` shell
     composer require Mehdikarimian/ExcelBundle:dev-master
 ```
-**3 )** Register the bundle in ``config\bundles.php``
+**3)** Register the bundle in ``config\bundles.php``
 ``` php
     $bundles = [
         // ...
