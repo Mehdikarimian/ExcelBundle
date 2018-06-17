@@ -39,18 +39,11 @@
     
 }
 ```
-**2** add repositories to package.json file
+**2** Run
 ``` shell
     composer require Mehdikarimian/ExcelBundle:dev-master
 ```
 **3** Register the bundle in ``config\bundles.php``
-``` php
-    $bundles = [
-        // ...
-    Liuggio\ExcelBundle\LiuggioExcelBundle::class => ['all' => true],
-    ];
-```
-
 ``` php
     $bundles = [
         // ...
